@@ -1,0 +1,44 @@
+
+* {
+    background: rgba(28, 0, 176, 1);
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.bluescreenofdeath {
+    margin-top: 350px;
+}
+
+.windows {
+    text-align: center;
+    color: rgba(28, 0, 176, 1);
+    background-color: #A8A8A8;
+}
+
+.tring {
+    margin-left: 905px;
+    margin-right: 905px;
+}
+
+.pressanykeytocontinue {
+    text-align: center;
+}
+
+.helptext {
+    display: block;
+}
+
+.b {
+    margin-left: 605px;
+    margin-right: 814px;
+}
+
+.q {
+    margin-left: 605px;
+    margin-right: 814px;
+}
+
+.s {
+    margin-left: 605px;
+    margin-right: 814px;
+}
